@@ -1,0 +1,1 @@
+A program that takes the output of a 2-hidden layer feedforward neural network as input and constructs a symbolic equation representing the network’s output. The goal is to understand and interpret the neural network’s decision-making process through symbolic representation.
